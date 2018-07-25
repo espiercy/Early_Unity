@@ -17,3 +17,6 @@ MonoBehaviour:
     to the front gate and try to find a way to bust in. Or, you could shout Mina's
     name with reckless regard for safety.\r\n\r\n1. Charge at the front gate.\r\n2.
     Scream Mina's name."
+  nextStates:
+  - {fileID: 11400000, guid: 8f91c0b83bb222a4fbd3de61e402eb2e, type: 2}
+  - {fileID: 11400000, guid: dfde22a1855e3f648aaca2eef42b0e59, type: 2}

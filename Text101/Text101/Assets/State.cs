@@ -9,9 +9,17 @@ public class State : ScriptableObject {
     [SerializeField]
     string storyText;
 
+    [SerializeField]
+    State[] nextStates;
+
     public string GetStateStory()
     {
         return storyText;
+    }
+
+    public State[] GetNextStates()
+    {
+        return nextStates;
     }
 
 }

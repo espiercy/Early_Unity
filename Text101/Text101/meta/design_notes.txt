@@ -1,0 +1,22 @@
+Create Your Own CYOA Design
+
+What is your game theme?
+
+Gothic Horror
+
+What is an image that sums up your game theme?
+
+Strahd.jpg
+
+Who is the player?
+
+A young villager
+
+What is the goal?
+
+Escape the castle
+
+"You beloved betrothed, Mina Mumoo has been taken by the vile BARON OF CASTLE BADMOUNT! Having discovered the baron's insidious deeds, you have tracked him to the mighty fortress, CASTLE BADMOUNT, in order to effect her rescue."
+
+"Charge at the front gate."
+"Scream Mina's name"
